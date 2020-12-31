@@ -16,10 +16,10 @@ export default function Home() {
         </h1>
         <ul>
           <li>
-            read teh <Link href="posts/kraggle">kraggle</Link>
+            read teh <Link href="/posts/kraggle">kraggle</Link>
           </li>
           <li>
-            see teh <Link href="posts/little-britain">british people</Link>
+            see teh <Link href="/posts/little-britain">british people</Link>
           </li>
         </ul>
 
