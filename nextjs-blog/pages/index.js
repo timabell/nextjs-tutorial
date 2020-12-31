@@ -16,7 +16,8 @@ export default function Home() {
         </h1>
         <ul>
           <li>
-            read teh <Link href="/posts/kraggle"><a>kraggle</a></Link>
+            read teh{' '}
+              <Link href="/posts/kraggle"><a>kraggle</a></Link>
           </li>
           <li>
             see teh <Link href="/posts/little-britain">british people</Link>
