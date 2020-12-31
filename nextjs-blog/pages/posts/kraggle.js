@@ -1,9 +1,14 @@
 import Link from 'next/link'
+import Head from 'next/head'
+
 export default function Kraggle() {
     return (
         <>
-        <h1>Beware, the kraggle</h1>
-        <Link href="/"><a>home</a></Link>
+            <Head>
+                <title>squirrel!</title>
+            </Head>
+            <h1>Beware, the kraggle</h1>
+            <Link href="/"><a>home</a></Link>
         </>
     )
 }
